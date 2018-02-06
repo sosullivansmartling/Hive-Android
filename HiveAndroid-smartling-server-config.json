@@ -26,7 +26,7 @@
     {
       "type"      : "android",
       "pathRegex" : ".*\\/values\\/strings\\.xml",
-      "translationPathExpression" : "${originalFile.path}/../values-${locale}/strings.xml",
+      "translationPathExpression" : "${originalFile.path}/\.\./values-${locale}/strings.xml",
       "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}"
     }
 
