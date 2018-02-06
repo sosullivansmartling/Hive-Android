@@ -1,0 +1,34 @@
+{
+  "locales": [
+    {
+      "smartling" : "en-US",
+      "application" : "en-US"
+    },
+    {
+      "smartling" : "es-US",
+      "application" : "es-US"
+    },
+    {
+      "smartling" : "fr-CA",
+      "application" : "fr-CA"
+    },
+    {
+      "smartling" : "fr-FR",
+      "application" : "fr-FR"
+    },
+    {
+      "smartling" : "it-IT",
+      "application" : "it"
+    }
+  ],
+  "resourceSets": [
+
+    {
+      "type"      : "android",
+      "pathRegex" : ".*\\/values\\/strings\\.xml",
+      "translationPathExpression" : "${originalFile.path}/../values-${locale}/strings.xml",
+      "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}"
+    }
+
+  ]
+}
