@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <!-- General -->
-    <string name="account_identifier">Hive!</string>
+    <string name="account_identifier">Hive</string>
     <string name="dash">-</string>
     <string name="ok">OK</string>
-    <string name="dont_allow">ne pas permettre@</string>
+    <string name="dont_allow">ne-pas permettre</string>
     <string name="accept">Accepter</string>
     <string name="submit">Envoyer</string>
     <string name="cancel">Annuler</string>
@@ -719,7 +719,7 @@
     <string name="wlc_onboarding_welcome_description_clickable_span">Politique de confidentialité</string>
     <string name="wlc_onboarding_welcome_proceed_btn">Accepter</string>
     <string name="wlc_onboarding_pair_camera_instructions_title">Branchez votre Hive Camera\npour l’allumer.</string>
-    <string name="wlc_onboarding_pair_camera_instructions_description">Lorsque le voyant de la Hive Camera clignote rouge, \nappuyez sur le bouton wifi à l\'arrière de l\'appareil pendant 5 secondes. Lorsque\n le voyant passe au jaune/vert, vous êtes\n prêt pour l\'appairage wifi.</string>
+    <string name="wlc_onboarding_pair_camera_instructions_description">Lorsque le voyant de la Hive Camera clignote  rouge, \nappuyez sur le bouton wifi à l\'arrière de l\'appareil pendant 5 secondes. Lorsque\n le voyant passe au jaune/vert, vous êtes\n prêt pour l\'appairage wifi.</string>
     <string name="wlc_onboarding_pair_camera_instructions_proceed_btn">Allons-y</string>
     <string name="wlc_onboarding_scan_camera_nearby_progress">Chercher une\nHive Camera</string>
     <string name="wlc_onboarding_scan_camera_nearby_title">Connectez la Hive Camera \nà votre téléphone.</string>
@@ -1019,7 +1019,7 @@
     <string name="motion_motion_detected">Mouvement détecté</string>
 
     <!-- Event logs -->
-    <string name="event_logs_today_label">Évènements du jour</string>
+    <string name="event_logs_today_label">Évènements du jour </string>
     <string name="event_logs_now">Maintenant</string>
     <string name="event_logs_less_one_min">moins d\'1 min</string>
     <string name="event_logs_seconds">%1$s sec</string>
@@ -1344,7 +1344,7 @@
     <string name="accessibility_active_plug_time_slot_desc">La Prise Intelligente est %1$s. de %2$s à %3$s le %4$s, double clic pour modifier</string>
     <string name="accessibility_active_plug_time_slot_desc_last_event">La Prise Intelligente est %1$s. de %2$s le %3$s à %4$s le %5$s, double clic pour modifier</string>
     <string name="accessibility_active_light_white_time_slot_desc">L\'ampoule est %1$s. de %2$s à %3$s le %4$s, double clic pour modifier</string>
-    <string name="accessibility_active_light_white_time_slot_desc_last_event">L\'ampoule est %1$s. de %2$s sur %3$s à %4$s le %5$s, double clic pour modifier</string>
+    <string name="accessibility_active_light_white_time_slot_desc_last_event">L\'ampoule  est %1$s. de %2$s sur %3$s à %4$s le %5$s, double clic pour modifier</string>
     <string name="accessibility_recipes_time_slot_desc">L’Action est %1$s. de %2$s à %3$s le %4$s, double clic pour modifier</string>
     <string name="accessibility_recipes_time_slot_desc_last_event">L’action est %1$s. de %2$s le %3$s à %4$s le %5$s, double clic pour modifier</string>
     <string name="accessibility_name_temp_control_view_notification_max">Avertissement de température maximum</string>
@@ -1384,7 +1384,7 @@
     <string name="accessibility_pin_switch">pin lock on off switch.</string>
     <string name="accessibility_boost_on">Boost ON</string>
     <string name="accessibility_geolocation_close">Fermer visite géolocalisation. Double clic fois pour fermer</string>
-    <string name="accessibility_geolocation_reset">Modifier la localisation du domicile, bouton, double clic pour redéfinir votre localisation</string>
+    <string name="accessibility_geolocation_reset">Modifier la localisation du domicile, bouton, double clic  pour redéfinir votre localisation</string>
     <string name="accessibility_heating_boost_activate">Boost, double clic pour booster le chauffage</string>
     <string name="accessibility_hvac_heating_boost_activate">Chauffage Rapide, double clic pour définir une durée spécifique de chauffage</string>
     <string name="accessibility_hvac_cooling_boost_activate">Refroidissement Rapide, double clic pour définir une durée spécifique de refroidissement</string>
